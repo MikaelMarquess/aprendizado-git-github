@@ -1,0 +1,4 @@
+git init=Inicializar o local remoto do git
+git add=Adiciona o arquivo para a pasta de salvamento
+git commit=Commita a versão do código
+git push=Joga o arquivo para dentro do repositório online do github.

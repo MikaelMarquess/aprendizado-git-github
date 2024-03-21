@@ -1,0 +1,1 @@
+Para se conectar ao github, é necessário o comando 'git remote <endereço do repositório>'

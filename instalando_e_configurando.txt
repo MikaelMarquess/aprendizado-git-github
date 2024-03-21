@@ -1,0 +1,1 @@
+A instalação é bem simples... Basta entrar no próprio site do git, seguir os passos necessários para a instalação do git, após isso, fazer uma conta para o repositório github.
